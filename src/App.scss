@@ -1213,5 +1213,17 @@ footer {
   .news__item{
     width: 100%;
   }
+
+  .abit{
+    height: fit-content !important;
+  }
+
+  .abit__bottom{
+    position: relative;
+    top: auto;
+    left: auto;
+    right:  auto;
+    margin-top: 50px;
+  }
 }
 

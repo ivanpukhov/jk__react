@@ -11,7 +11,7 @@ import NewsPage from "./components/NewsPage";
 
 function App() {
     return (
-        <Router>
+        <Router basename="/jk__react">
             <Header/>
             <Routes>
                 <Route path="/" element={<Main/>}/>
