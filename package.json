@@ -2,6 +2,8 @@
   "name": "dplm",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ivanpukhov.github.io/jk__react",
+
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
@@ -21,7 +23,6 @@
     "sass": "^1.77.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://ivanpukhov.github.io/jk__react",
   "scripts": {
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
