@@ -36,7 +36,7 @@ const News = () => {
                     <div key={newsItem.id} className="news__item">
                         <div className="news__photo">
                             {newsItem.attributes.image.data && newsItem.attributes.image.data.length > 0 && newsItem.attributes.image.data[0].attributes ? (
-                                <img src={`http://localhost:1337${newsItem.attributes.image.data[0].attributes.url}`}
+                                <img src={`${newsItem.attributes.image.data[0].attributes.url}`}
                                      alt={newsItem.attributes.title}/>
                             ) : (
                                 <img src={news} alt="No image available"/>
