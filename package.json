@@ -21,7 +21,10 @@
     "sass": "^1.77.4",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://ivanpukhov.github.io/jk__react",
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
