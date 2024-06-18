@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jk__react/static/css/main.76642c3d.css",
+    "main.js": "/jk__react/static/js/main.ceaadfb8.js",
+    "static/js/453.71198aff.chunk.js": "/jk__react/static/js/453.71198aff.chunk.js",
+    "static/media/logo.png": "/jk__react/static/media/logo.0604ed23a7041318822f.png",
+    "static/media/sched.png": "/jk__react/static/media/sched.b67889704864977bbec5.png",
+    "static/media/dir.png": "/jk__react/static/media/dir.613b9441d3fa185c705b.png",
+    "static/media/news.png": "/jk__react/static/media/news.fe4d8312bddbd891a354.png",
+    "static/media/mis.webp": "/jk__react/static/media/mis.f862b8b2e35d071d444f.webp",
+    "static/media/col.jpg": "/jk__react/static/media/col.3828748c856d739a4c8d.jpg",
+    "static/media/konk.png": "/jk__react/static/media/konk.2de1e612fad13617f21c.png",
+    "static/media/news.webp": "/jk__react/static/media/news.a2b9942ec4263209e744.webp",
+    "static/media/footer.svg": "/jk__react/static/media/footer.3bf40e936a0cf28171fdc71c3ae865d6.svg",
+    "index.html": "/jk__react/index.html",
+    "static/media/cit.svg": "/jk__react/static/media/cit.950ece10b0145c243bab60631c6c4e7b.svg",
+    "main.76642c3d.css.map": "/jk__react/static/css/main.76642c3d.css.map",
+    "main.ceaadfb8.js.map": "/jk__react/static/js/main.ceaadfb8.js.map",
+    "453.71198aff.chunk.js.map": "/jk__react/static/js/453.71198aff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76642c3d.css",
+    "static/js/main.ceaadfb8.js"
+  ]
+}
